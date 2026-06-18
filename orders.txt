@@ -1,0 +1,8 @@
+4,chicken tagliatelle,35
+56,briani,25
+45,Butter Chicken,30
+56,Butter Chicken:30, Beef Korma:40
+56,56,Butter Chicken:30
+45,Fried Chicken:20
+301,Fried Chicken:20, shawarma:25
+360,Lamb Chop:40,French Fries:20

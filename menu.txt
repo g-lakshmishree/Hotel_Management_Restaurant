@@ -1,0 +1,39 @@
+#Appetizers
+Crinkle Cut Fries,20,Available
+Crispy Calamari,40,Available
+Cheese Croquette,25,Not Available
+
+#Beverages
+Mojito,12,Available
+Pina Colada,15,Available
+Soft Drinks,8,Available
+Fresh Juice,14,Not Available
+
+#Desserts
+Toffee Ice-Cream,20,Available
+Flamed-Mango Crepe,30,Available
+Strawberry Sundae,22,Available
+Coconut Mousse,25,Not Available
+
+#Chinese
+Sweet & Sour Fish,30,Available
+Garlic Chicken Hotpot,24,Available
+Sizzling Lamb,45,Available
+Tofu Chop Suey,25,Not Available
+
+#Indian
+Butter Chicken,30,Available
+Palak Paneer,25,Available
+Chicken Tandoori,30,Available
+Beef Korma,40,Not Available
+
+#Italian
+Chicken Tagliatelle,35,Available
+White Sauce Cannelloni,37,Available
+Bolognese Lasagna,40,Available
+Creamy Mushroom Maroni,32,Not Available
+Briani,32,Aavailable
+Shawarma,25,Available
+Fried Chicken,20,Not Available
+French Fries,20,Not Available
+Lamb Chop,40,Not Available
